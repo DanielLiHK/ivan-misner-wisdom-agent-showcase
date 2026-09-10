@@ -1,19 +1,17 @@
 # Update Workflow
 
-The private repository `ivan-misner-wisdom-agent` remains the source of truth. This public showcase is a reviewed, sanitized snapshot and is never automatically synchronized with the private research workspace.
+The private research repository remains the source of truth. This public showcase is a reviewed snapshot and is not automatically synchronized with the research workspace.
 
 ## Release flow
 
 ```text
-private research update
-→ review evidence and rebuild persona
-→ select public-safe changes
-→ copy only approved showcase files
-→ run release audit
-→ inspect diff and file list
-→ commit to public repo
-→ tag a new version
-→ publish release notes
+research update
+→ review the supporting sources
+→ select changes suitable for public explanation
+→ update the relevant summaries
+→ check wording, attribution, and boundaries
+→ review the public changes
+→ publish a versioned update
 ```
 
 ## What may be updated
@@ -22,7 +20,7 @@ Public updates may include corrected persona wording, theory summaries, source l
 
 ## What must remain private
 
-Do not copy raw sources, staging files, pending or rejected reviewer notes, Tavily queries or artifacts, API workflows, secrets, terminal logs, Manus task history, full evidence data, private vector indexes, working code, or website/chatbot implementation into this repository.
+Do not copy unpublished working materials, private notes, credentials, internal records, complete source collections, implementation code, or website/chatbot material into this repository.
 
 ## Versioning
 

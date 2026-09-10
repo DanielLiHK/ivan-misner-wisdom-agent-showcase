@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.0.2 — Public-facing sensitivity cleanup
+
+- Remove discussion-specific wording that would not make sense to a public reader.
+- Describe the showcase in terms of outcomes, reasoning principles, and limitations rather than implementation details.
+- Keep the public explanation readable and separate from the private research workspace.
+
 ## v1.0.1 — Naming and language cleanup
 
 - Use `Givers Gain` as the theory name without an added registered-trademark symbol.
@@ -9,5 +15,3 @@
 ## v1.0.0 — Conservative public showcase draft
 
 This first release presents the organized persona layers, six-theory status, public methodology, terminology approach, evidence sample, attribution, identity boundaries, and custom non-commercial rights policy.
-
-It intentionally excludes working code, raw source captures, internal research logs, API workflows, secrets, complete evidence records, private vector indexes, and website or chatbot implementation.

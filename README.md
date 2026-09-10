@@ -35,11 +35,11 @@ The goal is to show what was researched, how public-source claims were organized
 | The Three Rs | Needs research; conservative summary only |
 | The 3rd Paradigm | Needs research; conservative summary only |
 
-The project deliberately does not present all theories as equally evidenced. It also does not confirm the user-mentioned “room theory” as an established concept in this release.
+The project deliberately does not present all theories as equally evidenced. Each theory page states what the available sources support and where the project is not yet making a broader claim.
 
 ## What is intentionally excluded
 
-This showcase does not include working code, Tavily or GitHub Actions workflows, API keys, raw webpages, raw source dumps, complete evidence records, pending or rejected reviewer notes, terminal logs, run IDs, private vector indexes, website code, or chatbot backend code. The private research repository remains the complete working space and is not mirrored here.
+This is a curated research showcase rather than a complete archive, software distribution, or finished chatbot. It presents the organized results and the reasoning principles behind them, while keeping the underlying working materials separate from this public-facing explanation.
 
 ## Method in one view
 
@@ -63,7 +63,7 @@ You may share this repository link. Please do not describe it as an official Iva
 
 ## Version
 
-`v1.0.0` — conservative public showcase draft. This repository is a separate sanitized snapshot; it is not an automatic mirror of the private research repository.
+`v1.0.1` — conservative public showcase with naming and language cleanup. This repository is a curated snapshot, not a complete archive of the research process.
 
 ## Future updates
 

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This showcase explains the reasoning architecture used to organize public material. It does not publish the private research workbench or claim that the process captures every teaching by Ivan Misner.
+This showcase explains the reasoning architecture used to organize public material. It does not claim to capture every teaching by Ivan Misner.
 
 ## High-level workflow
 
@@ -30,6 +30,6 @@ source selection
 
 A model-generated proposal is not automatically evidence. Pending, rejected, or placeholder source records remain outside the public release. Public summaries preserve uncertainty and do not fill gaps merely to make the theory map look complete.
 
-## What is not published
+## Scope
 
-The private repository retains raw captures, research adapters, API workflow, complete evidence data, reviewer records, run metadata, and rebuild scripts. This public repository only explains the method at a conceptual level.
+The public repository explains the method at a conceptual level and presents selected results. It is not intended to reproduce the entire research process or to serve as a complete source archive.

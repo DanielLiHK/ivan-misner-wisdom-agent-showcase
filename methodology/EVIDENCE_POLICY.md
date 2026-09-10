@@ -12,4 +12,4 @@ Needs research is a positive boundary label. It means the project deliberately k
 
 ## Public evidence sample
 
-The public sample includes only concept ID, canonical name, short summary, source URL, status, and limitation. It does not include raw page text, complete review logs, reviewer identity, API metadata, or pending source captures.
+The public sample includes a concept name, short summary, source URL, status, and limitation so readers can follow the reasoning without treating the sample as a complete source archive.

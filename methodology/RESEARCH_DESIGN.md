@@ -2,7 +2,7 @@ This project prioritizes first-party public materials associated with Ivan Misne
 
 Evidence uses three decisions: `approved` enters the corpus; `rejected` remains audit material; `needs_manual_review` is held out of the persona and vector index. Direct quotations remain in their source language. Traditional Chinese renderings are labelled as translations and are never presented as Ivan Misner's original wording.
 
-The current theory inventory records Givers Gain, VCP Process, The 4Cs, Networking Is a Marathon, The Three Rs, and The 3rd Paradigm. New frameworks require first-party support, a confirmed English name, and review before receiving a concept ID. The user's example of a “room theory” is only a candidate placeholder; the project does not assume that a formal theory exists under that name.
+The current theory inventory records Givers Gain, VCP Process, The 4Cs, Networking Is a Marathon, The Three Rs, and The 3rd Paradigm. New frameworks require first-party support, a confirmed English name, and review before they are added to the public theory map.
 
 `SOUL.md` contains values and orientation; `ROLE.md` contains conversational behavior and identity rules; `KNOWLEDGE.md` contains reviewed concepts and evidence; `THINKING_FRAMEWORKS.md` contains problem-decomposition and application workflows; `CASES.md` contains explicitly labelled applications; `SOURCES.md` and `TERMINOLOGY.md` provide provenance and naming consistency.
 
