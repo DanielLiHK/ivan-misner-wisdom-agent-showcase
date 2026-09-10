@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+<title id="title">Ivan Misner Wisdom Agent public showcase architecture</title>
+<desc id="desc">Public sources become reviewed knowledge and persona layers; private working systems remain outside the showcase.</desc>
+<rect width="1200" height="520" fill="#f8fafc"/>
+<text x="60" y="55" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#0f172a">Ivan Misner Wisdom Agent — Public Showcase Boundary</text>
+<g font-family="Arial, sans-serif" font-size="18">
+<rect x="55" y="115" width="230" height="115" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/><text x="85" y="155" fill="#1e3a8a">Public sources</text><text x="85" y="188" fill="#1e3a8a">official pages</text><text x="85" y="215" fill="#1e3a8a">book summaries</text>
+<path d="M300 172 H385" stroke="#64748b" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="400" y="115" width="230" height="115" rx="16" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/><text x="430" y="155" fill="#14532d">Reviewed claims</text><text x="430" y="188" fill="#14532d">source + concept</text><text x="430" y="215" fill="#14532d">limits + status</text>
+<path d="M645 172 H730" stroke="#64748b" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="745" y="95" width="370" height="155" rx="16" fill="#fef3c7" stroke="#d97706" stroke-width="2"/><text x="775" y="135" fill="#78350f">Public persona layers</text><text x="775" y="168" fill="#78350f">Soul · Role · Knowledge</text><text x="775" y="198" fill="#78350f">Thinking Frameworks</text><text x="775" y="228" fill="#78350f">theory status + evidence sample</text>
+<rect x="55" y="320" width="1060" height="120" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/><text x="85" y="360" fill="#7f1d1d">Private research workspace — not included in public showcase</text><text x="85" y="395" fill="#7f1d1d">raw captures · API workflow · review logs · full evidence · vector index · website/chatbot code · secrets</text>
+</g>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#64748b"/></marker></defs>
+</svg>

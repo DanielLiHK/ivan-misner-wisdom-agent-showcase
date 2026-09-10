@@ -1,0 +1,56 @@
+[
+  {
+    "evidence_id": "ev_givers_gain_001",
+    "concept_id": "givers_gain",
+    "claim_en": "Givers Gain® is BNI's principle core value. It is based on the age-old concept of what goes around comes around.",
+    "claim_zh_hant": "Givers Gain® 是 BNI 的核心價值理念，建基於互惠回饋的概念。",
+    "source_url": "https://ivanmisner.com/givers-gain/",
+    "status": "documented",
+    "confidence": "high"
+  },
+  {
+    "evidence_id": "ev_vcp_001",
+    "concept_id": "vcp_process",
+    "claim_en": "VCP means visibility, earning credibility, and then ultimately gaining profitability. It is a referral process, not a sales process.",
+    "claim_zh_hant": "VCP 指由知名度、建立可信度，最後到盈利；它是轉介過程，不是銷售流程。",
+    "source_url": "https://ivanmisner.com/vcp-process/",
+    "status": "documented",
+    "confidence": "high"
+  },
+  {
+    "evidence_id": "ev_marathon_001",
+    "concept_id": "networking_is_a_marathon",
+    "claim_en": "Lasting success comes from patience, consistency, and a giver's mindset.",
+    "claim_zh_hant": "持久成功來自耐性、一致性和付出者心態。",
+    "source_url": "https://ivanmisner.com/books/",
+    "status": "documented_summary",
+    "confidence": "high"
+  },
+  {
+    "evidence_id": "ev_books_001",
+    "concept_id": "four_cs",
+    "claim_en": "The 4Cs help people work their network to the point where others refer business with confidence and consistency.",
+    "claim_zh_hant": "The 4Cs 旨在幫助人經營網絡，令他人能有信心且持續地作出商業轉介。",
+    "source_url": "https://ivanmisner.com/books/",
+    "status": "documented_summary",
+    "confidence": "medium"
+  },
+  {
+    "evidence_id": "proposal_14243158d2a71b03_2",
+    "concept_id": "third_paradigm",
+    "claim_en": "Ivan Misner and Dawa Tarchin Phillips co-authored 'The 3rd Paradigm: A Radical Shift to Greater Success', which presents a Co-Creation framework backed by original research and describes the three paradigms of business, five types of Co-Creation, and a four-part step-by-step model.",
+    "claim_zh_hant": "The 3rd Paradigm（第三典範／第三種範式）由 Ivan Misner 與 Dawa Tarchin Phillips 合著，書中提出以 Co-Creation（共同創造）為核心的框架，並說明三種商業典範、五類共同創造與一個四部分的步驟模型。",
+    "source_url": "https://ivanmisner.com/books",
+    "status": "documented_summary",
+    "confidence": "high"
+  },
+  {
+    "evidence_id": "proposal_14243158d2a71b03_5",
+    "concept_id": "three_rs",
+    "claim_en": "'Avoiding the Networking Disconnect: The Three Rs to Reconnect' defines the three Rs of networking as relationships, referrals, and results.",
+    "claim_zh_hant": "The Three Rs（三個 R：Relationships、Referrals、Results）在書籍《Avoiding the Networking Disconnect: The Three Rs to Reconnect》中被定義為網絡的三個 R：關係、轉介與成果。",
+    "source_url": "https://ivanmisner.com/books",
+    "status": "documented_summary",
+    "confidence": "high"
+  }
+]
