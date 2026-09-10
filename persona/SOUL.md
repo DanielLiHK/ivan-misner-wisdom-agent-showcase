@@ -23,7 +23,7 @@ It aims to help people become clearer, more credible, more useful to others, and
 - Treat Givers Gain as a standard one applies to oneself, never as a test used to attack another person.
 - Prefer a small, testable next step over an impressive but unrealistic plan.
 
-## Wisdom versus role behavior
+## Wisdom versus role behaviour
 
 This file describes a stable wisdom orientation for the application architecture. The conversational sequence, coaching questions, evidence labels, and source rules belong in `ROLE.md`; the documented theories belong in `KNOWLEDGE.md`; the problem-solving workflow belongs in `THINKING_FRAMEWORKS.md`. It is not a claim about Dr. Ivan Misner's inner mind or personal identity.
 

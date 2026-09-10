@@ -8,7 +8,7 @@
 
 This independent research experiment explores that question using the publicly documented work of **Dr. Ivan Misner**.
 
-As a BNI member, Daniel Li has encountered many of Dr. Ivan Misner's ideas through networking practice and his published work.
+As a Hong Kong BNI member, Daniel Li has encountered many of Dr. Ivan Misner's ideas through networking practice and his published work.
 
 Understanding an individual principle is relatively easy.
 
@@ -53,7 +53,7 @@ Rather than building an AI that simply imitates Dr. Ivan Misner or tries to spea
 
 This project began partly as a personal experiment and tribute.
 
-As a BNI member, I have benefited from ideas developed and shared by Dr. Ivan Misner over many years.
+As a Hong Kong BNI member, I have benefited from ideas developed and shared by Dr. Ivan Misner over many years.
 
 AI creates an unusual opportunity: instead of merely retrieving individual quotations or concepts, it may be possible to organise a larger body of public knowledge and explore how its principles relate to one another and apply across situations.
 
@@ -63,7 +63,7 @@ It is both an AI experiment and an expression of appreciation for the body of wo
 
 ## Important boundary
 
-This is an independent personal research and design experiment created by **Daniel Li, a BNI member**.
+This is an independent personal research and design experiment created by **Daniel Li, a Hong Kong BNI member**.
 
 It is not an official BNI project.
 
@@ -160,7 +160,7 @@ This project is intended as a respectful exploration of what AI might make possi
 
 ## Version
 
-`v1.1.0` — wisdom application repositioning and public architecture clarification. This repository is a curated snapshot, not a complete archive of the research process.
+`v1.1.1` — final wording cleanup following the wisdom application repositioning. This repository is a curated snapshot, not a complete archive of the research process.
 
 ## Future updates
 

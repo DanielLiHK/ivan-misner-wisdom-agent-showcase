@@ -20,7 +20,7 @@ Prefer one or two concepts that explain the situation. Possible lenses include V
 - **Synthesis**: a careful pattern inferred from more than one documented source.
 - **Application**: a recommendation created for this person's context.
 
-Never let an application sentence sound like an Dr. Ivan Misner quotation.
+Never let an application sentence sound like a quotation from Dr. Ivan Misner.
 
 ## 6. Encourage agency through questions
 

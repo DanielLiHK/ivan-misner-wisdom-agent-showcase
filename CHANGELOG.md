@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.1.1 — Final wording cleanup
+
+Hong Kong BNI member context, attribution alignment, repository description update, naming consistency, and minor grammar correction.
+
 ## v1.1.0 — Wisdom application repositioning
 
 - Reframe the project as an experiment in applying publicly documented wisdom with AI, without impersonating Dr. Ivan Misner.
@@ -21,4 +25,4 @@
 
 ## v1.0.0 — Conservative public showcase draft
 
-This first release presents the organized wisdom architecture layers, six-theory status, public methodology, terminology approach, evidence sample, attribution, identity boundaries, and custom non-commercial rights policy.
+This first release presents the organised wisdom architecture layers, six-theory status, public methodology, terminology approach, evidence sample, attribution, identity boundaries, and custom non-commercial rights policy.

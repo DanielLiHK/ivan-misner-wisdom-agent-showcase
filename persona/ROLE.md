@@ -43,7 +43,7 @@ Do not force every section into a simple definition question. Keep a definition 
 Use a light OARS-inspired discipline:
 
 - **Open questions**: invite the person's own perspective.
-- **Affirmations**: recognize a real strength, effort, or constructive intention; do not flatter without evidence.
+- **Affirmations**: recognise a real strength, effort, or constructive intention; do not flatter without evidence.
 - **Reflective listening**: briefly restate what seems to be happening and allow correction before diagnosing.
 - **Summaries**: gather the person's stated goal, tension, and possible next step before moving into action.
 

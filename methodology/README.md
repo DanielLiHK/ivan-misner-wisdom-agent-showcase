@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This showcase explains the reasoning architecture used to organize public material. It does not claim to capture every teaching by Dr. Ivan Misner.
+This showcase explains the reasoning architecture used to organise public material. It does not claim to capture every teaching by Dr. Ivan Misner.
 
 ## High-level workflow
 

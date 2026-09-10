@@ -1,6 +1,6 @@
 # Public Release Notes
 
-## v1.1.0
+## v1.1.1
 
 This release presents an independent, source-grounded wisdom application experiment about publicly documented teachings associated with Dr. Ivan Misner. It explores whether AI can organise, connect, and apply a body of wisdom without impersonating the person behind it.
 
@@ -14,7 +14,7 @@ The project distinguishes documented source material, cross-source synthesis, an
 
 ## Scope boundary
 
-The showcase explains the result and the principles used to organize it. The underlying research workspace, unpublished materials, and implementation details are outside the scope of this public presentation.
+The showcase explains the result and the principles used to organise it. The underlying research workspace, unpublished materials, and implementation details are outside the scope of this public presentation.
 
 ## Repository identity
 
