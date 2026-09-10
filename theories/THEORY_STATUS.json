@@ -1,6 +1,6 @@
 {
   "version": "0.1",
-  "subject": "Ivan Misner public teachings and associated frameworks",
+  "subject": "Dr. Ivan Misner public teachings and associated frameworks",
   "policy": "A candidate is not a formal concept until a first-party source supports its name and substance.",
   "concepts": [
     {"concept_id": "givers_gain", "canonical_en": "Givers Gain", "status": "verified", "audit_status": "pass-with-gaps", "approved_evidence": 9, "pending_evidence": 2, "layers": ["soul", "knowledge", "thinking_frameworks"], "sources": ["https://ivanmisner.com/givers-gain/", "https://ivanmisner.com/givers-gain-a-standard-not-a-sword", "https://ivanmisner.com/books/"]},
@@ -9,7 +9,6 @@
     {"concept_id": "networking_is_a_marathon", "canonical_en": "Networking Is a Marathon", "status": "verified", "audit_status": "pass-with-gaps", "approved_evidence": 5, "pending_evidence": 2, "layers": ["knowledge", "soul", "thinking_frameworks"], "sources": ["https://ivanmisner.com/books/", "https://www.bni.com/about/our-founder/"]},
     {"concept_id": "three_rs", "canonical_en": "The Three Rs", "status": "verified", "audit_status": "needs-research", "approved_evidence": 1, "pending_evidence": 0, "layers": ["knowledge"], "sources": ["https://ivanmisner.com/books/"]},
     {"concept_id": "third_paradigm", "canonical_en": "The 3rd Paradigm", "status": "verified", "audit_status": "needs-research", "approved_evidence": 1, "pending_evidence": 0, "layers": ["knowledge"], "sources": ["https://ivanmisner.com/books/"]},
-    {"concept_id": "unmapped_official_frameworks", "canonical_en": null, "status": "discovered", "layers": ["knowledge"], "sources": ["https://ivanmisner.com/books/"], "note": "Scan official books and articles before creating additional IDs."},
-    {"concept_id": "room_theory_candidate", "canonical_en": null, "status": "needs_manual_review", "layers": [], "sources": [], "note": "User-mentioned example only; no formal theory is assumed without a first-party source and confirmed English name."}
+    {"concept_id": "unmapped_official_frameworks", "canonical_en": null, "status": "discovered", "layers": ["knowledge"], "sources": ["https://ivanmisner.com/books/"], "note": "Additional frameworks require first-party support before they are added to the public theory map."}
   ]
 }

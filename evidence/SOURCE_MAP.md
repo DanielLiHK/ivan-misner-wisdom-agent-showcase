@@ -29,4 +29,4 @@ The source set is intentionally traceable. Source priority is first-party materi
 
 ## Method references
 
-The Role's general coaching interaction method is informed by the ICF Core Competencies and motivational-interviewing OARS reference listed in `docs/RESEARCH_METHOD.md`; these are not Ivan Misner teachings.
+The Role's general coaching interaction method is informed by the ICF Core Competencies and motivational-interviewing OARS reference listed in `docs/RESEARCH_METHOD.md`; these are not Dr. Ivan Misner teachings.

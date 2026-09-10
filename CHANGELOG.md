@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.1.0 — Wisdom application repositioning
+
+- Reframe the project as an experiment in applying publicly documented wisdom with AI, without impersonating Dr. Ivan Misner.
+- Keep `Soul`, `Role`, `Knowledge`, and `Thinking Frameworks` as a structured wisdom architecture rather than a claim about a private personality or inner mind.
+- Add the personal tribute context, explicit boundary statement, and selected public reasoning architecture to the README.
+- Use `Dr. Ivan Misner` for person references while preserving source titles, URLs, filenames, and repository metadata.
+
 ## v1.0.2 — Public-facing sensitivity cleanup
 
 - Remove discussion-specific wording that would not make sense to a public reader.
@@ -14,4 +21,4 @@
 
 ## v1.0.0 — Conservative public showcase draft
 
-This first release presents the organized persona layers, six-theory status, public methodology, terminology approach, evidence sample, attribution, identity boundaries, and custom non-commercial rights policy.
+This first release presents the organized wisdom architecture layers, six-theory status, public methodology, terminology approach, evidence sample, attribution, identity boundaries, and custom non-commercial rights policy.

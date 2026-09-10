@@ -12,7 +12,7 @@ The current evidence supports only a conservative book-level association with Co
 
 ## Status: needs research
 
-The current source base is too limited to attribute a complete model solely to Ivan Misner or to describe the contributions of co-authors in detail. Further primary-source research would be required before expansion.
+The current source base is too limited to attribute a complete model solely to Dr. Ivan Misner or to describe the contributions of co-authors in detail. Further primary-source research would be required before expansion.
 
 ## Source
 

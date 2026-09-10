@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This showcase explains the reasoning architecture used to organize public material. It does not claim to capture every teaching by Ivan Misner.
+This showcase explains the reasoning architecture used to organize public material. It does not claim to capture every teaching by Dr. Ivan Misner.
 
 ## High-level workflow
 
@@ -13,7 +13,7 @@ source selection
 → human review gate
 → duplicate and contradiction handling
 → terminology alignment
-→ persona-layer placement
+→ wisdom-architecture placement
 → confidence and limitation labels
 → sanitized Markdown distillation
 ```
@@ -23,7 +23,7 @@ source selection
 - **Documented:** a claim is tied to an identified public source.
 - **Documented summary:** the project paraphrases a public source rather than presenting a full quotation.
 - **Synthesis:** the project combines compatible claims across sources and labels the result as interpretation.
-- **Application:** a possible way to use an idea in a conversation; it is not presented as Ivan Misner's words.
+- **Application:** a possible way to use an idea in a conversation; it is not presented as Dr. Ivan Misner's words.
 - **Needs research:** the public material is too limited for broader claims.
 
 ## Review principle

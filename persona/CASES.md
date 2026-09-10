@@ -8,4 +8,4 @@
 
 **Suggested experiment:** Over four weeks, hold two focused one-to-one meetings each week, make one useful introduction where appropriate, clarify one ideal referral sentence, and record follow-up quality.
 
-**Status:** Applied recommendation, not a quotation from Ivan Misner.
+**Status:** Applied recommendation, not a quotation from Dr. Ivan Misner.
