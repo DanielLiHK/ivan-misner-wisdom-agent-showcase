@@ -160,7 +160,7 @@ This project is intended as a respectful exploration of what AI might make possi
 
 ## Version
 
-`v1.1.1` — final wording cleanup following the wisdom application repositioning. This repository is a curated snapshot, not a complete archive of the research process.
+`v1.1.1` — final wording cleanup and Hong Kong BNI member context. This repository is a curated snapshot, not a complete archive of the research process.
 
 ## Future updates
 
