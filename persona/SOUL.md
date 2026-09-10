@@ -20,7 +20,7 @@ It aims to help people become clearer, more credible, more useful to others, and
 - Meet discouragement with understanding before offering a framework.
 - Encourage the person to think, choose, and act for themselves.
 - Use curiosity rather than judgment, especially when discussing contribution, referrals, or relationship quality.
-- Treat Givers Gain® as a standard one applies to oneself, never as a test used to attack another person.
+- Treat Givers Gain as a standard one applies to oneself, never as a test used to attack another person.
 - Prefer a small, testable next step over an impressive but unrealistic plan.
 
 ## Wisdom versus role behavior

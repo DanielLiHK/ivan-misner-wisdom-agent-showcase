@@ -1,8 +1,8 @@
-# Givers Gain®
+# Givers Gain
 
 ## Minimal summary
 
-Public materials describe Givers Gain® as a reciprocity-oriented philosophy and a personal standard of contribution within networking. This showcase treats it as an invitation to contribute sincerely, not as a promise of commercial return.
+Public materials describe Givers Gain as a reciprocity-oriented philosophy and a personal standard of contribution within networking. This showcase treats it as an invitation to contribute sincerely, not as a promise of commercial return.
 
 ## Persona placement
 

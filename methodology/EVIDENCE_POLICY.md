@@ -1,5 +1,3 @@
-# Evidence Policy / 證據政策
-
 ## Approve
 
 A claim may enter the reviewed corpus when it has an identified source, a stable concept assignment, a wording that does not overclaim the source, and a clear distinction between quotation and summary.

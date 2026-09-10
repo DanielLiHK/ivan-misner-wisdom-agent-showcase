@@ -1,13 +1,13 @@
-# Theory Status / 六大理論狀態
+# Theory Status
 
 | Theory | Status | Public conclusion |
 |---|---|---|
-| Givers Gain® | Pass with gaps | 保留 contribution、reciprocity 及 personal-standard guardrail；不寫成必然回報。 |
-| VCP Process | Pass with gaps | 保留 Visibility、Credibility、Profitability 及 referral-process distinction；不簡化成保證式公式。 |
-| The 4Cs | Pass with gaps | 保留 Credibility、Competence、Clarity、Connectivity；詳細應用仍然 source-linked。 |
-| Networking Is a Marathon | Pass with gaps | 保留長期培養、耐性及一致性；廣泛人生哲學標示為 synthesis。 |
-| The Three Rs | Needs research | 只保留 Relationships、Referrals、Results 的最小摘要，不建立完整 framework。 |
-| The 3rd Paradigm | Needs research | 只保留保守書籍／Co-Creation 摘要，不描述未有原文支持的完整模型。 |
+| Givers Gain | Pass with gaps | Retain contribution, reciprocity, and a personal-standard guardrail; do not present it as guaranteed return. |
+| VCP Process | Pass with gaps | Retain Visibility, Credibility, Profitability, and the referral-process distinction; do not reduce it to a guaranteed formula. |
+| The 4Cs | Pass with gaps | Retain Credibility, Competence, Clarity, and Connectivity; detailed applications remain source-linked. |
+| Networking Is a Marathon | Pass with gaps | Retain long-term cultivation, patience, and consistency; broad life-philosophy claims remain labelled as synthesis. |
+| The Three Rs | Needs research | Retain only a minimal summary of Relationships, Referrals, and Results; do not build a complete framework. |
+| The 3rd Paradigm | Needs research | Retain only a conservative book-level / Co-Creation summary; do not describe an unsupported complete model. |
 
 ## Evidence discipline
 

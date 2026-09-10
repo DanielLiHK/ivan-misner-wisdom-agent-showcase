@@ -28,7 +28,7 @@ The goal is to show what was researched, how public-source claims were organized
 
 | Theory | Public status |
 |---|---|
-| Givers Gain® | Pass with gaps |
+| Givers Gain | Pass with gaps |
 | VCP Process | Pass with gaps |
 | The 4Cs | Pass with gaps |
 | Networking Is a Marathon | Pass with gaps |

@@ -1,4 +1,4 @@
-# Methodology / 研究方法
+# Methodology
 
 ## Purpose
 

@@ -1,4 +1,4 @@
-# Update Workflow / 更新流程
+# Update Workflow
 
 The private repository `ivan-misner-wisdom-agent` remains the source of truth. This public showcase is a reviewed, sanitized snapshot and is never automatically synchronized with the private research workspace.
 

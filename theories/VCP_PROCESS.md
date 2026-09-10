@@ -1,4 +1,4 @@
-# VCP Process®
+# VCP Process
 
 ## Minimal summary
 
